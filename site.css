@@ -67,3 +67,15 @@ img {
   font-size: 2em;
   margin: 1em;
 }
+#rss_items {
+  border: 5px solid orange;
+  padding: 10px 10px 10px 10px;
+  margin: 5px 5px 5px 5px 5px;
+}
+.rss_title {
+  font-size: 2em;
+}
+.rss_description {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
