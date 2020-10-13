@@ -94,3 +94,7 @@ img {
 .cell_url{
   color: purple;
 }
+#mapid {
+  height: 640px;
+  width: 640px;
+}
