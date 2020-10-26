@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+
+  <title>Smart Speaker Class</title>
+  <link>https://</link>
+  <description>Class Drescription</description>
+  <item>
+    <pubDate>Mon, 26 Oct 2020 1:33:44 -0700</pubDate>
+    <title>Patagonia Story</title>
+    <link>https://AlexPere51.github.io/about.html</link>
+    <description>Patagonia Story Drescription</description>
+    <enclosure url="https://AlexPere51.github.io/briefs/PatagoniaStory.m4a" type="audio/mpeg" length="1646909"></enclosure>
+    <guid isPermaLink="false">https://AlexPere51.github.io/briefs/PatagoniaStory.m4a</guid>
+  </item>
+
+  <item>
+    <pubDate>Mon, 26 Oct 2020 1:37:54 -0700</pubDate>
+    <title>Science Story</title>
+    <link>https://AlexPere51.github.io/about.html</link>
+    <description>Science Story Description</description>
+    <enclosure url="https://AlexPere51.github.io/briefs/ScienceStory.m4a" type="audio/mpeg" length="1753348"></enclosure>
+    <guid isPermaLink="false">https://AlexPere51.github.io/briefs/ScienceStory.m4a</guid>
+  </item>
+
+</channel>
+</rss>
